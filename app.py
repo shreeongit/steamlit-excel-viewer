@@ -4,7 +4,7 @@ import pandas as pd
 st.title("📊 Complete Excel File Viewer")
 
 # Path to your existing Excel file
-file_path = "extracted_fields.xlsx"
+file_path = "scraped_masters_programs_concurrent.xlsx"
 
 try:
     # Read the entire Excel file
